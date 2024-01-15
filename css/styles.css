@@ -210,7 +210,7 @@ img {
 
 #menu_img:hover{
   filter: none;
-  -webkit-filter: brightness(110%) saturate(14%)  sepia(70%) saturate(974%) hue-rotate(930deg) contrast(70%);
+  -webkit-filter: brightness(115%);
 }
 
 img:hover {
