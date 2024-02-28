@@ -210,7 +210,7 @@ img {
 
 #menu_img:hover{
   filter: none;
-  -webkit-filter: brightness(115%);
+  -webkit-filter: brightness(110%);
 }
 
 img:hover {
